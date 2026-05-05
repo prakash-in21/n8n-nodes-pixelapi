@@ -1,0 +1,10 @@
+{
+  "node": "n8n-nodes-base.pixelApi",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["AI", "Transform"],
+  "resources": {
+    "credentialDocumentation": [{"url": "https://pixelapi.dev/app"}],
+    "primaryDocumentation": [{"url": "https://pixelapi.dev/docs"}]
+  }
+}
